@@ -1,6 +1,7 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+// import TheWelcome from './components/TheWelcome.vue'
+// import telaHome from './components/telaHome.vue'
 </script>
 
 <template>
@@ -11,10 +12,13 @@ import TheWelcome from './components/TheWelcome.vue'
       <HelloWorld msg="You did it!" />
     </div>
   </header>
+  <!-- <main>
+    < telaHome />
+  </main> -->
 
-  <main>
+  <!-- <main>
     <TheWelcome />
-  </main>
+  </main> -->
 </template>
 
 <style scoped>
